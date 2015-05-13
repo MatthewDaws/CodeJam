@@ -5,3 +5,5 @@
 
 # Don't upload IPython cache files
 .ipynb_checkpoints
+
+*.exe
