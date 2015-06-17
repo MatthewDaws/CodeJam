@@ -1,3 +1,5 @@
+// Demonstrate (naively odd) behaviour when we slightly mess-up a CompareTo method.
+
 using System;
 using System.Diagnostics;
 using System.Collections.Generic;
